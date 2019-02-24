@@ -17,5 +17,15 @@ The staging area allows you to manually choose which files to stage from the wor
 can also use the command git diff to see what changes happened on which files both within your working
 directory and the staging area.
 
+What are some situations when branches would be helpful in keeping your history organized? How would 
+branches help?
+
+Branches are helpful to keep your history organized because they allow you to make potentially
+drastic changes to your code without affecting the original code. Branches help because the user
+gets to decide upon a master branch of a project that stays untouched while also manipulating that
+same code to develop new aspects of a project.
+
+
+
 
 
