@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you initialize a repository you're creating space for git to store commits and code among
+different file types so that you or others can access that code later remotely. You need to do it
+in order to stage files and save them to your repository.
+

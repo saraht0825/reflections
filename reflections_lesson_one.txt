@@ -1,0 +1,49 @@
+Reflection 1
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Being able to see code changes over the same file shows how typos, intentional changes, differences
+in syntax, and changes in commands will overall alter your code and how it executes
+
+Reflection 2
+How could having easy access to the entire history of a file make you a more efficient programmer 
+in the long term?
+
+Having the history of a file can allow you to find bugs and unwanted changes within the version they
+first appeared, allowing you to adapt your code accordingly for better execution of the overall file.
+
+Reflection 3
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in 
+Git, vs having versions automatically saved, like Google Docs does?
+
+Pros: better understanding what a significant enough change to your code is, knowing the purpose of each
+commit, being able to attach a reason/message to each commit Cons: forgetting to commit, difficulty knowing
+when/why to commit, committing too often or not often enough
+
+Reflection 4
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while 
+others, like Google Docs, treat each file separately?
+
+Git has to allow saving multiple files because code can rely upon multiple files across different programs
+in order to execute properly. The file types supported by Google Docs don't require this same kind of support
+and can be saved individually.
+
+Reflection 5
+How can you use the commands git log and git diff to view the history of files?
+
+You can use git log and git diff to view the history of files by viewing a list of commits made to a file as
+well as being able to compare two different commits to see insertions and/or deletions.
+
+Reflection 6
+How might using version control make you more confident to make changes that could break something?
+
+You can create more code with confidence and change your files with more confidence because the old code
+still exists within your Git repository.
+
+Reflection 7
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git to create repositories and keep track of CSS and JavaScript files so that I can build on
+my own code and learn from other programmers' already established repos.
+
+
+
