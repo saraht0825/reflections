@@ -4,3 +4,11 @@ When you initialize a repository you're creating space for git to store commits 
 different file types so that you or others can access that code later remotely. You need to do it
 in order to stage files and save them to your repository.
 
+How is the staging area different from the working directory and the repository? What value 
+do you think it offers?
+
+The staging area is different from the working directory in that the staging area is a part of git
+and the working directory is only founc locally on your own machine. The value it offers is that it 
+allows a space for the user to decide which parts of the working directory should be uploaded to the
+repository and in which commits they should be uploaded.
+
