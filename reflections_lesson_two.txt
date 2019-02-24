@@ -12,3 +12,10 @@ and the working directory is only founc locally on your own machine. The value i
 allows a space for the user to decide which parts of the working directory should be uploaded to the
 repository and in which commits they should be uploaded.
 
+How can you use the staging area to make sure you have one commit per logical change?
+The staging area allows you to manually choose which files to stage from the working directory, and you
+can also use the command git diff to see what changes happened on which files both within your working
+directory and the staging area.
+
+
+
