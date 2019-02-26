@@ -33,6 +33,13 @@ in a sequence flow. Diagrams also show where experimental branches depart from m
 can give a sense of sanity/comfort to know that changes created on other branches truly do part from
 the master branch.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the 
+way we do?
+
+Merging the two branches together combines the code from both branches. We represent it in the
+diagram as a loop to show that the commits happened seperately but they do relate to one another and
+affect one another.
+
 
 
 
