@@ -25,6 +25,14 @@ drastic changes to your code without affecting the original code. Branches help 
 gets to decide upon a master branch of a project that stays untouched while also manipulating that
 same code to develop new aspects of a project.
 
+How do the diagrams help you visualize the branch structure?
+
+Diagrams help visualize how git commits are stored by showing which commits proceded others. This
+approach also allows you to understand how updates and changes are made to your code by viewing them
+in a sequence flow. Diagrams also show where experimental branches depart from master branches, and
+can give a sense of sanity/comfort to know that changes created on other branches truly do part from
+the master branch.
+
 
 
 
