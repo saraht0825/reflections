@@ -40,6 +40,13 @@ Merging the two branches together combines the code from both branches. We repre
 diagram as a loop to show that the commits happened seperately but they do relate to one another and
 affect one another.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Some of the pros of Git's automatic merging is that simpler files can be conviently merged for a user.
+While that could save time and be more efficient, manually merging on Git allows for a user to have
+more control over which branches should be combined, when they should be combined, and why/how certain
+conflicts within a merge should be resolved.
+
 
 
 
