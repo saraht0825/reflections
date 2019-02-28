@@ -1,5 +1,11 @@
 When would you want to use a remote repository rather than keeping all your work local?
 
-If you're working on a group project, or if someone else is working on your computer and you'll need to access your work from a different
-location, it's necessary to have a remote. Remotes are also useful if you want to keep your work public so that others can contribute to
-your project.
+If you're working on a group project, or if someone else is working on your computer and you'll need 
+to access your work from a different location, it's necessary to have a remote. Remotes are also 
+useful if you want to keep your work public so that others can contribute to your project.
+
+Why might you want to always pull changes manually rather than having Git automatically stay 
+up-to-date with your remote repository?
+
+Pulling from GitHub ensures that your most up-to-date project is accessible to anyone else using your
+remote. This is imperative if you're working with other contributors.
