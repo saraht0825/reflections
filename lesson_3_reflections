@@ -24,3 +24,9 @@ The benefit is that you can work offline. There is also a benefit in having a co
 state of a remote stored locally in that you can merge newer versions of a project with your fellow
 collaborators without too many missing commits and changes to your code.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Instead of using Git or GitHub, you could collaborate in person which would be very unrealistic. Also,
+using other cloud services like Google Drive wouldn't work because of coding languages format would
+not align with Google text editors. I really think that Git and GitHub offer the best solution.
+
