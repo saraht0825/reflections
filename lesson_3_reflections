@@ -9,3 +9,11 @@ up-to-date with your remote repository?
 
 Pulling from GitHub ensures that your most up-to-date project is accessible to anyone else using your
 remote. This is imperative if you're working with other contributors.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of 
+another?
+
+A branch is a part of your master project that relates to your original code so that you can 
+confidently experiment with your project and/or code without worrying about breaking original content.
+It is different from a clone of your repository in that a clone of your repository is usually ready
+to be shared remotely. A fork is a clone of your remote but is made from GitHub to GitHub. 
