@@ -30,3 +30,11 @@ Instead of using Git or GitHub, you could collaborate in person which would be v
 using other cloud services like Google Drive wouldn't work because of coding languages format would
 not align with Google text editors. I really think that Git and GitHub offer the best solution.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits 
+does each approach have?
+
+You would want to make changes in a separate branch when you're building new elements of your project
+that could break your code on your master branch. The benefits of working in a separate branch allow
+for your collaborators to experiment as well and make comments or suggestions to your separate branch.
+
+
